@@ -35,7 +35,7 @@ main {
 .logo {
     position: absolute;
     top: 5px;
-    left: 300px;
+    left: 200px;
     display: flex;
 }
 
@@ -44,7 +44,7 @@ main {
     position: absolute;
     display: flex;
     gap: 30px;
-    right: 500px;
+    right: 300px;
     top: 60px;
 }
 
@@ -110,7 +110,7 @@ main {
 
 .palillos img{
     position: relative;
-    width: 200%;
+    width: 700%;
     left: 400px;
     top: -50px;
 }
@@ -142,9 +142,9 @@ main {
     display: block;
     width: 600px;
     position: relative;
-    bottom: -400px;
+    bottom: -300px;
     font-weight: 550;
-    left: -220px;
+    left: -80px;
 
 }
 
